@@ -1,6 +1,6 @@
 import React, { useRef, useState } from "react";
 import axios from "axios"
-import WeatherWidget from "./weatherWidget";
+import WeatherWidget from "../Components/WeatherWidget";
 import "./weatherWidget.css";
 
  function Home () {
